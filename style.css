@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Inter:wght@100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Tac+One&display=swap');
+
+
+body {
+    background-color: #F6F0F2;
+}
+
+.cards-heading {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #ff5588;
+}
+
+.Intro {
+    display: flex;
+    margin-left: 330px;
+    margin-top: 00px;
+}
+
+.picture-links {
+    margin-top: 100px;
+}
+
+.DP {
+    height: 250px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.Social-links {
+    margin: 10px 0px;
+}
+
+.Social-links a {
+    margin: 0px 6px;
+}
+
+.Social-links a img {
+    width: 25px;
+    height: 25px;
+}
+
+.details {
+    margin-left: 65px;
+    margin-top: 70px;
+}
+
+.Name {
+    font-size: 54px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.Work {
+    display: flex;
+    width: 900px;
+}
+
+.Work .p1 {
+    font-size: 54px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #ff5588;
+}
+
+.Work .p2 {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.Work div {
+    margin: 40px;
+}
+
+.about {
+    margin-left: 566px;
+    margin-bottom: 200px;
+}
+
+.abt-me .p1 {
+    font-size: 37px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.abt-me .p2 {
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.career {
+    margin-left: 566px;
+    margin-bottom: 200px;
+}
+
+.career .p1 {
+    font-size: 37px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.intermediate {
+    padding-top: 10px;
+}
+
+.intermediate .p1 {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #333333;
+    line-height: 1px;
+}
+
+.intermediate .p2 {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+}
+
+.matric {
+    padding-top: 10px;
+}
+
+.matric .p1 {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #333333;
+    line-height: 1px;
+}
+
+.matric .p2 {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+}
+
+.SEO {
+    padding-top: 10px;
+}
+
+.SEO .p1 {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #333333;
+    line-height: 1px;
+}
+
+.SEO .p2 {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+}
+
+.my-service {
+    margin-left: 566px;
+    margin-bottom: 200px;
+}
+
+.my-service .p1 {
+    font-size: 37px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.Services {
+    display: flex;
+    width: 850px;
+}
+
+.Services p {
+    line-height: 5px;
+}
+
+.Services .html {
+    width: 250px;
+    height: 85px;
+    border: #ff5588 solid 1px;
+    padding: 20px 55px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.Services div {
+    width: 250px;
+    height: 85px;
+    border: #333333 solid 1px;
+    padding: 20px 55px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.Services .p1 {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.Services .p2 {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.skills {
+    margin-left: 566px;
+    margin-bottom: 200px;
+}
+
+.skills-icons img{
+    padding: 10px;
+}
+
+.skills .p1{
+    font-size: 37px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.Portfolio {
+    margin-left: 566px;
+    margin-bottom: 200px;
+}
+
+.Portfolio .p1{
+    font-size: 37px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.WA img {
+    height: 400px;
+    width: 820px;
+    border-radius: 30px;
+}
+
+.food-webs img {
+    height: 300px;
+    width: 400px;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.testomonial {
+    margin-left: 566px;
+    margin-bottom: 200px;
+}
+
+.testomonial .p1{
+    font-size: 37px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.review {
+    border: #ccc solid 1px;
+    border-radius: 30px;
+    width: 500px;
+    padding: 30px;
+}
+
+.client-profile {
+    display: flex;
+
+}
+
+.client-profile p {
+    margin-left: 10px;
+}
+
+.hire-me {
+    padding-left: 566px;
+}
+
+.hire-me .p1{
+    font-size: 37px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+form input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: #E8E3E5 solid 3px;
+    background-color: #F6F0F2;
+    margin: 20px 0px;
+    width: 600px;
+    padding: 10px;
+}
+
+.form-input input:focus {
+    outline: none;
+}
+
+form textarea {
+    width: 600px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: #E8E3E5 solid 3px;
+    background-color: #F6F0F2;
+}
+
+form textarea:focus{
+    outline: none;
+}
+
+.hire-btn {
+    background: none;
+    border: #999999 solid 1px;
+    padding: 15px 55px;
+    margin: 20px 0px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
